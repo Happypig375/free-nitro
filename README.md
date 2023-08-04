@@ -1,1 +1,1 @@
-![example](https://happypig375.github.io/free-nitro/example.png)
+![example](example.png)
